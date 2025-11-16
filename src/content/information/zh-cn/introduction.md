@@ -1,4 +1,4 @@
-**ThoughtLite** 是一款专注内容创作的现代化 [Astro](https://astro.build/) 主题。
+**Inkwell** 是一款专注内容创作的现代化 [Astro](https://astro.build/) 主题。
 
 笔者此前一直使用基于 [SvelteKit](https://svelte.dev/docs/kit/introduction) 的自建主题，但迫于 i18n 处理困难、冗余功能太多、维护成本较高等因素，遂迁移至 Astro。
 

@@ -1,14 +1,14 @@
 import siteConfig from "./src/utils/config";
 
 const config = siteConfig({
-	title: "ThoughtLite",
-	prologue: "If you need a website\nthat loads fast and has great SEO, then Astro is for you.",
+	title: "Inkwell",
+	prologue: "The right word, at its right depth.",
 	author: {
-		name: "Your Name",
-		email: "hi@your.mail",
-		link: "https://your.website"
+		name: "Tuntun Uchiha",
+		email: "xurlin@mail2.sysu.edu.cn",
+		link: "https://www.stillpoint.cn"
 	},
-	description: "A modern Astro theme focused on content creation.",
+	description: "The ink through which we read lives twice. ",
 	copyright: {
 		type: "CC BY-NC-ND 4.0",
 		year: "2025"
